@@ -1,0 +1,110 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "fone": "71 9888-6666",
+      "email": "ana@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Joao",
+      "fone": "75 99999-7777",
+      "email": "joao@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Maria",
+      "fone": "73 94444-3333",
+      "email": "maria@gmail.com"
+    },
+    {
+      "nome": "luiz",
+      "fone": "(75)9999-9999",
+      "email": "luiz@gmail.com",
+      "id": 4
+    },
+    {
+      "nome": "joao",
+      "fone": "(47)9999-9999",
+      "email": "joao@gmail.com",
+      "id": 5
+    },
+    {
+      "nome": "icaro",
+      "fone": "(75)9999-9999",
+      "email": "icaro@gmail.com",
+      "id": 6
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "descricao": "calça",
+      "preco": "90",
+      "estoque": "15",
+      "categoria": "roupas",
+      "fornecedor": "Ateliê"
+    },
+    {
+      "id": "2",
+      "descricao": "tênis corrida",
+      "preco": "115",
+      "estoque": "32",
+      "categoria": "sapatos",
+      "fornecedor": "Shoes"
+    },
+    {
+      "id": "3",
+      "descricao": "blusa",
+      "preco": "40",
+      "estoque": "24",
+      "categoria": "roupas",
+      "fornecedor": "Maria Modas"
+    },
+    {
+      "descricao": "",
+      "preco": "",
+      "estoque": "",
+      "categoria": "roupas",
+      "fornecedor": "Ateliê",
+      "id": "5i3hVrh"
+    },
+    {
+      "descricao": "top",
+      "preco": "55",
+      "estoque": "13",
+      "categoria": "roupas",
+      "fornecedor": "Ateliê",
+      "id": "9-YRghH"
+    }
+  ],
+  "fornecedor": [
+    {
+      "id": "1",
+      "nome": "Ateliê"
+    },
+    {
+      "id": "2",
+      "nome": "Shoes"
+    },
+    {
+      "id": "1",
+      "nome": "Maria Modas"
+    }
+  ],
+  "categoria": [
+    {
+      "id": "1",
+      "nome": "roupas"
+    },
+    {
+      "id": "2",
+      "nome": "sapatos"
+    },
+    {
+      "id": "1",
+      "nome": "acessorios"
+    }
+  ]
+}
